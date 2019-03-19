@@ -1,0 +1,29 @@
+body {
+    font-family: "arial";
+    color: #200080;
+  }
+  
+  .profile-image {
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 6px solid #ff99ff;
+    transition: all .5s;
+  }
+  
+  h1 {
+    background-color: #ffe6ff;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border: 6px solid #66ffcc;
+  }
+  
+  .section-title {
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #e6fff7;
+    border: 3px solid #ff99ff;
+  }
